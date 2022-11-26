@@ -1,0 +1,10 @@
+﻿2022-11-08 09:20:45.2831|DEBUG|NLogProject.NLog|Debug Successfull : Sum()
+2022-11-08 09:20:45.3815|ERROR|NLogProject.NLog|Expecting null values
+2022-11-08 09:20:45.3815|WARN|NLogProject.NLog|secondNumber or secondNumber should not be 0 
+2022-11-08 09:20:45.3815|DEBUG|NLogProject.NLog|Debug Successfull : Sum()
+2022-11-08 09:20:45.3815|INFO|NLogProject.NLog|Sum Method passed, Result2
+2022-11-08 09:23:46.9411|DEBUG|NLogProject.NLog|Debug Successfull : Sum()
+2022-11-08 09:23:46.9591|ERROR|NLogProject.NLog|Expecting null values
+2022-11-08 09:23:46.9591|WARN|NLogProject.NLog|secondNumber or secondNumber should not be 0 
+2022-11-08 09:23:46.9591|DEBUG|NLogProject.NLog|Debug Successfull : Sum()
+2022-11-08 09:23:46.9591|INFO|NLogProject.NLog|Sum Method passed, Result1
